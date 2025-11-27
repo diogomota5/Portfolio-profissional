@@ -9,44 +9,44 @@
     "hardSkills": [
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/java.svg"
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/data/imgs/java.png"
         
       },
       {
         "name": "Typescript",
-        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/typescript.svg"
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/data/imgs/typescript.png"
       },
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/javascript.svg"
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/data/imgs/javascript.png"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/html.svg"
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/css.svg"
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/data/imgs/css.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/angular.svg"
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/data/imgs/angular.png"
       },
       {
         "name": "Springboot",
-        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/springboot.svg"
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/data/imgs/springboot.png"
       },
       {
         "name": "Mysql",
-        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/mysql.svg"
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/data/imgs/mysql.png"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/postgre.svg"
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/data/imgs/postgree.png"
       },
       {
         "name": "Github",
-        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/github.svg"
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/data/imgs/github.png"
       }
     ],
     "softSkills": [
