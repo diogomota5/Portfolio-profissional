@@ -1,35 +1,52 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Diogo Mota",
+  "photo": "https://avatars.githubusercontent.com/u/214670588?v=4",
+  "job": "Junior Developer",
+  "location": "Patos de Minas - MG ",
+  "phone": "(34) 99841-0701",
+  "email": "diogo_mota1990@outlook.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/java.svg"
+        
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Typescript",
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/typescript.svg"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/javascript.svg"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/html.svg"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/css.svg"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/angular.svg"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "Springboot",
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/springboot.svg"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Mysql",
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/mysql.svg"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/postgre.svg"
+      },
+      {
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/diogomota5/Portfolio-profissional/refs/heads/main/assets/languages/github.svg"
       }
     ],
     "softSkills": [
@@ -37,42 +54,81 @@
       "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"
+      "Organização",
+      "Proatividade"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (Básico)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokedex Javascript",
+      "url": "https://github.com/diogomota5/Pokedex-JS",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Recriando a Interface da PSN Store com Angular",
+      "url": "https://github.com/diogomota5/Recriando-a-Interface-da-PSN-Store",
+      "github": true
+    },
+    {
+      "name": "Desafio Flexbox recriando a interface do Youtube",
+      "url": "https://github.com/diogomota5/DesafioFlexbox",
+      "github": true
+    },
+    {
+      "name": "Blog Angular",
+      "url": "https://github.com/diogomota5/angular-blog",
+      "github": true
+    },
+    {
+      "name": "Landing page com HTML e CSS",
+      "url": "https://github.com/diogomota5/trilha-css-desafio-01",
+      "github": true
+    },
+    {
+      "name": "Desenvolvimento back-end de academia digital",
+      "url": "https://github.com/diogomota5/academia-digital",
+      "github": true
+    },
+    {
+      "name": "Criação de banco digital",
+      "url": "https://github.com/diogomota5/DesafioDIO_ContaBancoDigital",
+      "github": true
+    },
+    {
+      "name": "Workshop Springboot e JPA",
+      "url": "https://github.com/diogomota5/workshop-springboot3-jpa",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Faturista / Uberlândia Refrescos",
+      "period": "2023 - até o momento",
+      "description": "É um prazer trabalhar em uma dar maiores empresas do mundo."
     },
     {
-      "name": "Software Engineering Lead / DIO",
+      "name": "Gerente Geral / Nave Destilaria",
       "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "description": "Tive grande aprendizado e desenvolvimento profissional e pessoal."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Faturista / Auma Negócios",
+      "period": "2019 - 2021",
+      "description": "Fazendo parte deste time fantástico tive grande aprendizado e evolução profissional."
+    },
+    {
+      "name": "Assistente Administrativo/Financeiro / Allpra Construções e Serviços em Infraestrutura",
+      "period": "2017 - 2018",
+      "description": "Foi um grande prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+    },
+    {
+      "name": "Assistente de Faturamento / Transgrãos",
+      "period": "2015 - 2017",
+      "description": "Anos incríveis ao lado de ótimos profissionais ajudando muitas empresas pelo Brasil."
     }
   ]
 }
